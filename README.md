@@ -4,6 +4,4 @@
 - 💞️ I’m always open to learning, advice and cooperation.
 - 📫 If you want to contact me, you can write to me on Instagram - @klimmm.
 
-<!---
-This is an example of one of my works to achieve this goal. If you have any suggestions for improving my code, let me know.
---->
+- This is an example of one of my works to achieve this goal. If you have any suggestions for improving my code, let me know.
