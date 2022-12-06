@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kl1mmm
-- 👀 I’m interested in web programming in its other forms.
+- 👀 I’m interested in web-programming in its other forms.
 - 🌱 I’m currently learning in Saint-Petersburg State University of Aerospace Instrumentation (SUAI).
-- 💞️ I’m always open to learning, advice and cooperation.
-- 📫 If you want to contact me, you can write to me on Telegram - @kl1mmm.
+- 💞️ I’m always open to learning, advices and cooperation.
+- 📫 If you want to contact me, you can write to me in Telegram - @kl1mmm.
