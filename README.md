@@ -2,7 +2,7 @@
 
 - 👀 I’m young interested in web-programming student.
 - 🏢 Currently learning in Saint-Petersburg State University of Aerospace Instrumentation (SUAI).
-- 📖 I’m always open to learning, advices and cooperation. So, if you want give some advices or give other feedback - you are welcome.
+- 📖 I’m always open to learning, advices and coop. So, if you want give some advices or give other feedback - you are welcome.
 - 📫 If you want to contact me, you can write me in the Telegram - @kl1mmm.
 
 # My stack of technologies:
