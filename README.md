@@ -14,7 +14,7 @@
 ### Telegram contact:
 <a href="https://t.me/kl1mmm"><img src="https://img.shields.io/badge/Telegram-292929?style=for-the-badge&logo=Telegram&logoColor=#26A5E4"/></a>
 
-### My statistic at GitHub:
+### My statistics at GitHub:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kl1mmm&count_private=true&show_icons=true&hide=contribs,issues&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
 
