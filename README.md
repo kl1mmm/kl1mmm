@@ -17,5 +17,3 @@
 ### My statistics at GitHub:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kl1mmm&count_private=true&show_icons=true&hide=contribs,issues&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
-
-![SophisticatedBlandHound-size_restricted](https://user-images.githubusercontent.com/89641101/206438726-a4503e27-393c-43db-9fc6-4eee4150c924.gif)
