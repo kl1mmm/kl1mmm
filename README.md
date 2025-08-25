@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm @kl1mmm
 
-- 👀 I’m young student that's interested in programming.
+- 👀 I’m frontend-developer that's interested in programming as a whole.
 - 🏢 Graduated in Saint-Petersburg State University of Aerospace Instrumentation (SUAI).
 - 📖 I’m always open to learning, advices and coop. So, if you want give some feedback - you are welcome.
 - 📫 If you want to contact me, write in the Telegram - @kl1mmm.
